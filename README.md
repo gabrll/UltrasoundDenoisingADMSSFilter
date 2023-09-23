@@ -31,5 +31,9 @@ REFERENCES
 
 [1] G. Ramos-Llorden et al., "Anisotropic Diffusion Filter With Memory Based on Speckle Statistics for Ultrasound Images," IEEE Transactions on Image Processing, vol.24, no.1, pp.345,358, Jan. 2015 DOI: 10.1109/TIP.2014.2371244
 
-· [2] G. Vegas-Sanchez-Ferrero et al., "Gamma mixture classifier for plaque detection in intravascular ultrasonic images,", IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , vol.61, no.1, pp.44,61, January 2014 DOI: 10.1109/TUFFC.2014.6689775
+[2] G. Vegas-Sanchez-Ferrero et al., "Gamma mixture classifier for plaque detection in intravascular ultrasonic images,", IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control , vol.61, no.1, pp.44,61, January 2014 DOI: 10.1109/TUFFC.2014.6689775
+
+![screenshot](https://github.com/gabrll/UltrasoundDenoisingADMSSFilter/assets/49204215/64dca82c-326a-48dc-8c3f-af93ef5bb4bc)
+
+
 
